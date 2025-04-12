@@ -95,7 +95,7 @@
             "Beyaz Diş",
             "Beyaz Zambaklar Ülkesi",
             "Clarissa"});
-            this.comboBox2.Location = new System.Drawing.Point(185, 223);
+            this.comboBox2.Location = new System.Drawing.Point(185, 220);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(166, 30);
             this.comboBox2.TabIndex = 5;
